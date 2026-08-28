@@ -1,2 +1,3 @@
-# jmtibbetts.github.io
-29+ years of building, breaking, securing, automating, and occasionally making computers do things they probably shouldn't.
+# NixNinja // operator portfolio
+
+An interactive, privacy-conscious terminal portfolio for GitHub Pages. It does not enumerate repositories, load analytics, or expose private project data.
